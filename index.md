@@ -221,6 +221,12 @@ Note the conversion from `list` to `np.array` has been moved out of the call to 
 ## Fix code style errors
 Rename our local variable `max` to something else (e.g. call it `max_data`), then rerun your tests and commit these latest changes and push them to GitHub using our usual feature branch workflow. Make sure your `develop` and `main` branches are up to date.
 
+
+<br>
+<br>
+<br>
+<br>
+
 # Section 3
 ![alt text](section3-overview.png)
 
